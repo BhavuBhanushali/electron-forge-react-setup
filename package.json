@@ -1,6 +1,6 @@
 {
-  "name": "scratchpad",
-  "productName": "scratchpad",
+  "name": "react-electron-forge-complete-setup",
+  "productName": "react-forge",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
@@ -13,8 +13,8 @@
   },
   "keywords": [],
   "author": {
-    "name": "Kilian Valkhof",
-    "email": "kilian@kilianvalkhof.com"
+    "name": "bhavesh bhanushali ",
+    "email": "bhaveshgajra4599@gmail.com"
   },
   "license": "MIT",
   "config": {
@@ -76,6 +76,7 @@
   },
   "dependencies": {
     "codemirror": "^5.59.4",
+    "dicom-dimse-native": "^2.4.6",
     "electron-squirrel-startup": "^1.0.0",
     "react": "^17.0.1",
     "react-codemirror": "^1.0.0",
